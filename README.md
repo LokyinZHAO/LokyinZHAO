@@ -2,7 +2,7 @@
 
 ### Hi, there👋  
 
-👀-This is Lokyin ZHAO.  
+🙋‍♂️-This is Lokyin ZHAO.  
 
 🏫-Huster, majoring in CS.  
 
