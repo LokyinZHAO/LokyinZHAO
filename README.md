@@ -4,15 +4,13 @@
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif">
 
-🙋‍♂️-This is Lokyin ZHAO.  
+🙋‍♂️ - This is Lokyin ZHAO.  
 
-🏫-Huster, majoring in CS.  
+🏫 - Huster, majoring in CS.  
 
-💪-A hard-working rookie.  
+🌈 - Too much to be proud of.  
 
-🌈-Too much to be proud of.  
-
-📧-Contacting me:lululuwis@icloud.com
+📧 - Contact me: LokyinZHAO@outlook.com
 
 
 
