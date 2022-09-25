@@ -1,6 +1,6 @@
 ![head.png](./IMG/top.png)  
 
-### Hi, there👋
+### About
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif">
 
